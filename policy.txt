@@ -1,0 +1,99 @@
+For Employees of SEMA:
+
+Samsung Electronics (hereafter known as the Company) values Employees personal information and makes efforts to manage Employees personal information legally and appropriately under Personal Information Protection Act and other relevant laws so that Employees' rights and interests may not be infringed on.
+
+The Company shares the personal information items, purpose of collection, data processing method, retaining period, the right and obligation of Employees, request process for appeal, the safety measure, etc through this personal information protection policy (hereafter referred to as "the Policy) for Employees of Samsung Electronics.
+
+The Company will notify Employees of any changes in the policy by posting the policy on the main page or pages similar to the main page of HR Partner so that Employees may find it easily.
+
+The purpose of collection and use of personal information
+
+The Company will collect and use the Employee's personal information in accordance with the Purposes of Use under the Personal information protection Act Article 15 and the Standard Labor Law Article 14 which specify that a service provider may collect, maintain and process personal information with the purpose of '[meeting] legal requirements or obligations', and 'to enter into or fulfill a contract with the owner of this information' (the Employee).
+
+The Company will notify and seek the Employee's agreement for any other collection, use or change of such personal information as specified by the Act, that does not fall under the above cases. This same rule shall apply if there are any changes to any of the following terms:
+
+The purpose of the collection and use of the herein stated personal information
+
+The terms of preservation of the herein stated personal information
+
+The terms of holding and using the herein stated personal information
+
+The notification to the Employee by the Company of the right to refuse collection or processing of the herein stated personal information, and any disadvantages that should be incurred in any such cases of refusal
+
+The Company will collect only necessary personal information blow for satisfactory service support
+
+Personal Information
+
+Collection Purpose
+
+Period
+
+- Name - E-mail address
+
+- Employee ID
+
+- Phone Number
+
+Confirming identity lik reading, deleting, modifying of data processing
+
+Until the withdrawal request in personal agreement
+
+The period of preservation and use of personal information
+
+The Company may preserve and use the herein stated personal information solely for the purposes as specified below.
+
+Classification
+
+Period of preservation and use
+
+Any subordinate Acts and/or Statutes of the Collection and Use of Personal Information Act require that such information be preserved.
+
+Until disposal is requested
+
+The Collection and Use of Personal Information Act is required to permit entry into and fulfill an employment contract
+
+The Collection and Use of Personal Information Act is enacted upon agreement
+
+Until the use of information is fulfilled
+
+The herein stated Personal information will be destroyed without delay as soon as the purposes of collection and use of information have been fulfilled.
+
+However, the information may be preserved even when the period of holding and using this information has expired if there is expressed consent from the Employee that this should happen, or if continued preservation is permitted by the existence of special provisions in other Malaysia / Korean laws.
+
+Rights and Obligations of Employees and the procedure of exercising Employees Right
+
+Employees at the Company have the right to access, change, delete, or request the cessation of processing their personal information, with specific procedures outlined for each action.
+
+To access personal information, employees can use the HR Partner platform or submit a request to the Personal Information Manager, with the Company required to respond within 10 days or provide a justified reason for delay. For changes or deletions, employees can modify their information in HR Partner or request changes through the Personal Information Manager, though deletion requests may be denied if the information is essential for fulfilling employment contracts or legal obligations.
+
+Requests to stop processing personal information can be made through the Personal Information Manager, with the Company obligated to comply unless exceptions apply, such as legal requirements or contract fulfillment. Employees can designate representatives to exercise these rights under Article 46 of the Personal Information Protection Act, and the Company may charge fees for certain requests, including postal costs for physical copies. For non-HR Partner information, employees should contact the designated Personal Information Manager listed in the Policy.
+
+Destruction of Personal Information
+
+The Company shall destroy personal information without reserve when it is no longer required or as required by law. Provided, the same shall not apply to a case where other Acts and subordinate statutes require the personal information to be preserved.
+
+The procedure of destruction
+
+Personal information whose purpose of retention is fulfilled will be destroyed after being transferred to a separate server to be preserved for a certain period of time for information protection under internal policy and other regulations. Information transferred to a separate server will not be used for other purposes, unless otherwise required by regulations.
+
+The method of destruction
+
+Electronically compiled personal information will be permanently erased using a technical method which prohibits reproduction of records.
+
+Any paper documents containing personal information will be shredded, pulverized or incinerated.
+
+Measures of personal information
+
+The Company shall take the requisite administrative, technical and physical measures to ensure the safety of personal information.
+
+Administrative measures
+
+Implementation of internal management plan for safe processing of personal information, training of person in charge of handing personal information and internal investigation on a regular basis.
+
+Technical measures
+
+Limited access to personal information, authorization process to confirm rightful access to personal information, implementation of system to prohibit any unauthorized access, encryption to safely store and transmit information,, records of log-ins and prevention of unauthorized alteration and internal reviews and regular updates of security programs
+
+Physical measure
+
+Physical security measures to guard against unauthorized access
