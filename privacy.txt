@@ -1,0 +1,55 @@
+Privacy Policy for Users of CoC
+For User of CoC: COC Users (hereafter known as “the Company”) values Users’ personal information and makes efforts to manage Users’ personal information legally and appropriately under the Personal Information Protection Act and other relevant laws so that Users' rights and interests may not be infringed on.
+
+The Company shares the personal information items, purpose of collection, data processing method, retaining period, the right and obligation of Users, request process for appeal, the safety measure, etc., through this personal information protection policy (hereafter referred to as "the Policy”) for Users of COC Users.
+
+The Company will notify Users of any changes in the policy by posting the policy on the main page or pages similar to the main page of HR Partner so that Users may find it easily.
+
+1. The purpose of collection and use of personal information
+The Company will collect and use the Users personal information in accordance with the Purposes of Use under the Personal information protection Act Article 15 and the Standard Labor Law Article 14 which specify that a service provider may collect, maintain and process personal information with the purpose of '[meeting] legal requirements or obligations', and 'to enter into or fulfill a contract with the owner of this information'.
+
+The Company will notify and seek the Users agreement for any other collection, use or change of such personal information as specified by the Act. This includes changes to:
+
+The purpose of collection and use.
+The terms of preservation.
+The terms of holding and using information.
+
+The right to refuse collection and any resulting disadvantages.
+
+Data Collection Summary: | Personal Information | Collection Purpose | Period | | :--- | :--- | :--- | | Name, E-mail, Employee ID, Phone Number | Confirming identity (reading, deleting, modifying data) | Until withdrawal request |
+
+2. The period of preservation and use of personal information
+The Company preserves information solely for the purposes specified below:
+
+Legal Requirements: Preserved until disposal is requested if required by subordinate Acts/Statutes.
+
+Employment Contract: Preserved until disposal is requested to fulfill employment contracts.
+
+Agreed Use: Preserved until the specific use of information is fulfilled.
+
+Destruction Policy: Personal information will be destroyed without delay as soon as the purposes are fulfilled, unless expressed consent is given for continued preservation or special provisions exist in Malaysia/Korean laws.
+
+3. Rights and Obligations of Users
+Users have the right to access, change, delete, or request the cessation of processing their personal information.
+
+Access: Users can use the HR Partner platform or submit a request to the Personal Information Manager. The Company must respond within 10 days.
+
+Changes/Deletion: Users can modify info in HR Partner. Deletion may be denied if the info is essential for legal or contract obligations.
+
+Cessation: Requests to stop processing can be made via the Personal Information Manager.
+
+Representatives: Users can designate representatives to exercise these rights under Article 46 of the Personal Information Protection Act.
+
+4. Destruction of Personal Information
+Procedure: Information is transferred to a separate server for a certain period under internal policy before final destruction. It is not used for other purposes during this time.
+
+Method (Electronic): Permanently erased using technical methods prohibiting reproduction.
+
+Method (Paper): Shredded, pulverized, or incinerated.
+
+5. Measures for Personal Information Security
+Administrative: Internal management plans, regular staff training, and internal investigations.
+
+Technical: Limited access, authorization processes, encryption for storage and transmission, and regular security program updates.
+
+Physical: Physical security measures to guard against unauthorized access.
