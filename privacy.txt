@@ -16,7 +16,8 @@ The terms of holding and using information.
 
 The right to refuse collection and any resulting disadvantages.
 
-Data Collection Summary: | Personal Information | Collection Purpose | Period | | :--- | :--- | :--- | | Name, E-mail, Employee ID, Phone Number | Confirming identity (reading, deleting, modifying data) | Until withdrawal request |
+Data Collection Summary: | Personal Information | Collection Purpose | Period | 
+| Name, E-mail, Employee ID, Phone Number | Confirming identity (reading, deleting, modifying data) | Until withdrawal request |
 
 2. The period of preservation and use of personal information
 The Company preserves information solely for the purposes specified below:
